@@ -17,21 +17,27 @@ A text-based multiplayer game inspired by the UNO card game by Hasbro, coded in 
 - The player with no cards remaining in their hand wins
 
 **Action Cards**
+
 Reverse
+
 1. Will reverse the turn order of the game (e.g. If Player 3 plays the reverse card, the following turn will go to Player 2 instead of Player 4)
 2. If it is a 2 player game, a Reverse card will skip the next player's turn. 
 
 Skip
+
 1. The next player will have their turn skipped (e.g. If Player 1 played the Skip, Player 2 will skip a turn, Player 3 will play next)
 
 Draw 2
+
 2. The next player will have 2 cards added to their hand and will have their turn skipped (e.g. If Player 1 played the Draw 2, Player 2 will have 2 cards added to their hand and skip a turn, Player 3 will play next)
 
 Wild
+
 1. Upon play a list of colours, enter the number accociated to the colour they want to pick
 2. The colour of the card will change accordingly and the game will continue
 
 Wild Draw 4
+
 1. Same procedure as the Wild Card (1 to 2)
 2. The next player will have 4 cards added to their hand and will have their turn skipped (e.g. If Player 1 played the Wild Draw 4, Player 2 will have 4 cards added to their hand and skip a turn, Player 3 will play next)
 
