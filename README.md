@@ -4,11 +4,11 @@ A text-based multiplayer game inspired by the UNO card game by Hasbro, coded in 
 **How to Play**
 1. Enter the number of players in the game, pick from 2 to 4
 2. The game will start from Player 1, on the main menu pick one of two options:
-   1: Allows player to see their hand
+   1: Allows player to see their hand, 
    2: Player will draw a card
-3a. Upon entering '1', the player will see a list of cards in their hand. Enter the number associated with the card they want to pick (an additional menu may appear/changes to the gameplay may occur if you play an action card, see below in **Action Cards**). If the player wants to return to the main menu, enter '0'
-3b. Upon entering '2', the player will draw a card and it will be shown on the screen (press Enter/Return to clear). If the card is playable, the player will be prompted on whether they will want to play it, enter Y or N
-4. After the player's turn is finished, the screen is cleared and the menu of the following player is shown
+3. Upon entering '1', the player will see a list of cards in their hand. Enter the number associated with the card they want to pick (an additional menu may appear/changes to the gameplay may occur if you play an action card, see below in **Action Cards**). If the player wants to return to the main menu, enter '0'
+4. Upon entering '2', the player will draw a card and it will be shown on the screen (press Enter/Return to clear). If the card is playable, the player will be prompted on whether they will want to play it, enter Y or N
+5. After the player's turn is finished, the screen is cleared and the menu of the following player is shown
 
 **Uno Rules**
 - Each player will start off with 7 cards in their hand
