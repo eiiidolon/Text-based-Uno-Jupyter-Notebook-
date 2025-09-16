@@ -42,7 +42,7 @@ Wild Draw 4
 2. The next player will have 4 cards added to their hand and will have their turn skipped (e.g. If Player 1 played the Wild Draw 4, Player 2 will have 4 cards added to their hand and skip a turn, Player 3 will play next)
 
 **Work In Progress Notes (WIP)**
-- Will implement a proper uno-callout system when I figure out how it should work, fow now it is disabled and "Uno!" is printed automatically when a player has 1 card left
+- Will implement a proper uno-callout system when I figure out how it should work, for now it is disabled and "Uno!" is printed automatically when a player has 1 card left
 - May implement a scoreboard system at the end of the game once a player wins...still thinking about it
 
 Hope you have fun playing my game! :D
